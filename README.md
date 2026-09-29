@@ -1,4 +1,4 @@
-# TerminalAnimation 🎬
+# Termani 🎬
 
 > Convert any video into ASCII art and play it — with audio — directly in your terminal.
 
@@ -198,3 +198,9 @@ Maximize your terminal window then re-convert:
 ### Cursor error / crash on play
 This happens when the animation is larger than the terminal.
 Fix: re-convert with auto-detect (no `--width` flag) after maximizing the window.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
