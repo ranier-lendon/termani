@@ -49,16 +49,16 @@ ffmpeg -version
 
 ### 1. Get the files
 
-Copy the `publish` folder somewhere on your PC. It contains:
-```
-publish/
-  TerminalAnimation.exe   ← the main program
-  Run.bat                 ← easy launcher (double-click this!)
-```
+Go to releases and download the latest release zip.
 
 ### 2. Double-click `Run.bat`
 
 A terminal window will open with a menu. **Maximize it first** for best results.
+```
+Termina_v1.x.x/
+  TerminalAnimation.exe   ← the main program
+  Run.bat                 ← easy launcher (double-click this!)
+```
 
 ### 3. Convert a video
 
@@ -84,7 +84,7 @@ That's it! Press `Q` to stop playback and return to the menu.
 ### `convert` — Convert a video to ASCII frames
 
 ```
-TerminalAnimation.exe convert <video> [output] [options]
+Termani.exe convert <video> [output] [options]
 ```
 
 **Examples:**
