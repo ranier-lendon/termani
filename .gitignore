@@ -1,0 +1,50 @@
+## Core properties
+*.obj
+*.exe
+*.dll
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.scc
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+ipch/
+obj/
+bin/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+.vs/
+publish/
+
+# Video and Media files
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.mp3
+
+# Ignore generated ASCII animation folders
+# (Assuming users might convert videos in the root directory)
+*_ascii/
+*.ascii.json
+*.frames
+*.meta.json
